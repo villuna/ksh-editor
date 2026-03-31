@@ -1,0 +1,3 @@
+# This file stores user ui settings and is created when you test the program, but we don't want it
+# in the repository.
+imgui.ini
